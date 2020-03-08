@@ -1,1 +1,19 @@
+body{
+    background-color: blue;
+    color: white;
+    height: 400px;
+    width: 400px;
+    margin: 50%;
+}
+p{
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 80px;
+}
+button{
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px;
+    font-size: 80px;
 
+}
